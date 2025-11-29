@@ -11,9 +11,12 @@
     {
       "src": "/(.*)",
       "dest": "index.js"
-    },
+    }
+  ],
+  "rewrites": [
     {
-      "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+      "source": "/(.*)",
+      "destination": "/"
     }
   ]
 }
