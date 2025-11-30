@@ -4,10 +4,10 @@ import { motion } from "framer-motion";
 import { useTheme } from "../../context/ThemeContext";
 
 const categories = [
-  { id: 1, name: "Serum", image: "/public/img/Serum-Mockup.jpg" },
-  { id: 2, name: "Conditiner", image: "/public/img/Conditiner mockup.jpg" },
-  { id: 3, name: "Shampoo", image: "/public/img/Shampoo-Mockup.jpg" },
-  { id: 4, name: "Sun Block", image: "/public/img/Sun-Block-Mockup.jpg" },
+  { id: 1, name: "Serum", image: "/img/Serum-Mockup.jpg" },
+  { id: 2, name: "Conditiner", image: "/img/Conditiner mockup.jpg" },
+  { id: 3, name: "Shampoo", image: "/img/Shampoo-Mockup.jpg" },
+  { id: 4, name: "Sun Block", image: "/img/Sun-Block-Mockup.jpg" },
 ];
 
 const FeaturedCategories = () => {
