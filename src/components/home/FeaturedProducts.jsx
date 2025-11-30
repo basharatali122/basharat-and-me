@@ -4,11 +4,11 @@ import { useTheme } from "../../context/ThemeContext";
 import Button from "../ui/Button.jsx/Button";
 
 const products = [
-  { id: 1, name: "Serum Vitamin C", price: "4000", image: "/public/img/Serum-Mockup.jpg" },
-  { id: 2, name: "Nevolis", price: "2000", image: "/public/img/close-box-mockup.jpg" },
-  { id: 3, name: "Shampoo", price: "3000", image: "/public/img/Shampoo-Mockup.jpg" },
-  { id: 4, name: "Facewash", price: "1800", image: "/public/img/face-wash.png" },
-  { id: 5, name: "Sunblock", price: "2000", image: "/public/img/face-wash.png" },
+  { id: 1, name: "Serum Vitamin C", price: "4000", image: "/img/Serum-Mockup.jpg" },
+  { id: 2, name: "Nevolis", price: "2000", image: "/img/close-box-mockup.jpg" },
+  { id: 3, name: "Shampoo", price: "3000", image: "/img/Shampoo-Mockup.jpg" },
+  { id: 4, name: "Facewash", price: "1800", image: "/img/face-wash.png" },
+  { id: 5, name: "Sunblock", price: "2000", image: "/img/face-wash.png" },
 ];
 
 const FeaturedProducts = () => {
