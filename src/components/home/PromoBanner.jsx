@@ -21,7 +21,7 @@ const PromoBanner = () => {
       >
         {/* Background Image */}
         <img
-          src="/public/img/face-wash.png"
+          src="/img/face-wash.png"
           alt="Electronics Sale"
           className="absolute inset-0 w-full h-full object-bottom group-hover:scale-105 transition-transform duration-700"
         />
@@ -77,7 +77,7 @@ const PromoBanner = () => {
       >
         {/* Background Image */}
         <img
-          src="/public/img/Conditiner mockup.jpg"
+          src="/img/Conditiner mockup.jpg"
           alt="conditiner"
           className="absolute inset-0 w-full h-full object-bottom group-hover:scale-105 transition-transform duration-700"
         />

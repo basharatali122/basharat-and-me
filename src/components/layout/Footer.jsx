@@ -65,7 +65,7 @@ const Footer = () => {
     },
     {
       name: "WhatsApp",
-      href: "https://wa.me/923001234567",
+      href: "https://wa.me/923064121334",
       svg: (
         <svg
           className="size-6 transition-transform duration-200 group-hover:scale-110"
@@ -105,13 +105,13 @@ const Footer = () => {
     },
     { 
       icon: "📞", 
-      text: "+92 300 1234567",
-      href: "tel:+923001234567" 
+      text: "+92 306 4121334",
+      href: "tel:+923064121334" 
     },
     { 
       icon: "📍", 
-      text: "Karachi, Pakistan",
-      href: "https://maps.google.com/?q=Karachi,Pakistan" 
+      text: "Kasur, Pakistan",
+      href: "https://www.google.com/maps/place/Kasur/@31.120192,74.4465699,13z/data=!3m1!4b1!4m6!3m5!1s0x3919b97b6553a0cd:0x9306801f64aa8ed2!8m2!3d31.1217131!4d74.4520445!16zL20vMDNfN19u?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D", 
     },
   ];
 

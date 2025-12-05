@@ -69,7 +69,7 @@ const Hero = () => {
             style={{ border: `1px solid ${themeConfig.border}` }}
           >
             <img
-              src="/public/img/Alpine-Glow-crea-mock-up.jpg"
+              src="/img/Alpine-Glow-crea-mock-up.jpg"
               alt="Hero Banner"
               className="w-full h-[400px] md:h-[500px] object-cover"
             />
@@ -87,7 +87,7 @@ const Hero = () => {
             }}
           >
             <img
-              src="/public/img/Alpine-Glow-crea-mock-up.jpg"
+              src="/img/Alpine-Glow-crea-mock-up.jpg"
               alt="Trending product"
               className="w-16 h-16 rounded-xl object-cover"
             />
